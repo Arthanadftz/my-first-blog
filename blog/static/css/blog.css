@@ -45,6 +45,9 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+.date, .btn btn-default {
+  display: inline-block;
+}
 
 footer {
   margin-top: 50px;
